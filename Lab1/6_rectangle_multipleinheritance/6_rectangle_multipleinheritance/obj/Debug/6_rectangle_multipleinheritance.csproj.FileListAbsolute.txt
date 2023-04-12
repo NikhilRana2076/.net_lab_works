@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Nikhil\6_rectangle_multipleinheritance\6_rectangle_multipleinheritance\bin\Debug\6_rectangle_multipleinheritance.exe.config
+D:\Semester VI\Net\Nikhil\6_rectangle_multipleinheritance\6_rectangle_multipleinheritance\bin\Debug\6_rectangle_multipleinheritance.exe
+D:\Semester VI\Net\Nikhil\6_rectangle_multipleinheritance\6_rectangle_multipleinheritance\bin\Debug\6_rectangle_multipleinheritance.pdb
+D:\Semester VI\Net\Nikhil\6_rectangle_multipleinheritance\6_rectangle_multipleinheritance\obj\Debug\6_rectangle_multipleinheritance.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Nikhil\6_rectangle_multipleinheritance\6_rectangle_multipleinheritance\obj\Debug\6_rectangle_multipleinheritance.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Nikhil\6_rectangle_multipleinheritance\6_rectangle_multipleinheritance\obj\Debug\6_rectangle_multipleinheritance.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Nikhil\6_rectangle_multipleinheritance\6_rectangle_multipleinheritance\obj\Debug\6_rectangle_multipleinheritance.exe
+D:\Semester VI\Net\Nikhil\6_rectangle_multipleinheritance\6_rectangle_multipleinheritance\obj\Debug\6_rectangle_multipleinheritance.pdb

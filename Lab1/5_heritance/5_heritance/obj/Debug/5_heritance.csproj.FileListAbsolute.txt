@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Nikhil\5_heritance\5_heritance\bin\Debug\5_heritance.exe.config
+D:\Semester VI\Net\Nikhil\5_heritance\5_heritance\bin\Debug\5_heritance.exe
+D:\Semester VI\Net\Nikhil\5_heritance\5_heritance\bin\Debug\5_heritance.pdb
+D:\Semester VI\Net\Nikhil\5_heritance\5_heritance\obj\Debug\5_heritance.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Nikhil\5_heritance\5_heritance\obj\Debug\5_heritance.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Nikhil\5_heritance\5_heritance\obj\Debug\5_heritance.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Nikhil\5_heritance\5_heritance\obj\Debug\5_heritance.exe
+D:\Semester VI\Net\Nikhil\5_heritance\5_heritance\obj\Debug\5_heritance.pdb

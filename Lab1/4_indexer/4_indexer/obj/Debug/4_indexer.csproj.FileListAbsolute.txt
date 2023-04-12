@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Nikhil\4_indexer\4_indexer\bin\Debug\4_indexer.exe.config
+D:\Semester VI\Net\Nikhil\4_indexer\4_indexer\bin\Debug\4_indexer.exe
+D:\Semester VI\Net\Nikhil\4_indexer\4_indexer\bin\Debug\4_indexer.pdb
+D:\Semester VI\Net\Nikhil\4_indexer\4_indexer\obj\Debug\4_indexer.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Nikhil\4_indexer\4_indexer\obj\Debug\4_indexer.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Nikhil\4_indexer\4_indexer\obj\Debug\4_indexer.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Nikhil\4_indexer\4_indexer\obj\Debug\4_indexer.exe
+D:\Semester VI\Net\Nikhil\4_indexer\4_indexer\obj\Debug\4_indexer.pdb

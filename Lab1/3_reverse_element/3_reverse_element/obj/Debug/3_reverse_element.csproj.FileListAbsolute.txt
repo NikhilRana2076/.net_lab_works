@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Nikhil\3_reverse_element\3_reverse_element\bin\Debug\3_reverse_element.exe.config
+D:\Semester VI\Net\Nikhil\3_reverse_element\3_reverse_element\bin\Debug\3_reverse_element.exe
+D:\Semester VI\Net\Nikhil\3_reverse_element\3_reverse_element\bin\Debug\3_reverse_element.pdb
+D:\Semester VI\Net\Nikhil\3_reverse_element\3_reverse_element\obj\Debug\3_reverse_element.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Nikhil\3_reverse_element\3_reverse_element\obj\Debug\3_reverse_element.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Nikhil\3_reverse_element\3_reverse_element\obj\Debug\3_reverse_element.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Nikhil\3_reverse_element\3_reverse_element\obj\Debug\3_reverse_element.exe
+D:\Semester VI\Net\Nikhil\3_reverse_element\3_reverse_element\obj\Debug\3_reverse_element.pdb

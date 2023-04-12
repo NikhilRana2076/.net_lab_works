@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Nikhil\2_display\2_display\bin\Debug\2_display.exe.config
+D:\Semester VI\Net\Nikhil\2_display\2_display\bin\Debug\2_display.exe
+D:\Semester VI\Net\Nikhil\2_display\2_display\bin\Debug\2_display.pdb
+D:\Semester VI\Net\Nikhil\2_display\2_display\obj\Debug\2_display.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Nikhil\2_display\2_display\obj\Debug\2_display.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Nikhil\2_display\2_display\obj\Debug\2_display.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Nikhil\2_display\2_display\obj\Debug\2_display.exe
+D:\Semester VI\Net\Nikhil\2_display\2_display\obj\Debug\2_display.pdb
