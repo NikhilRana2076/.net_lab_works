@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\lab2Delgate\bin\Debug\lab2Delgate.exe.config
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\lab2Delgate\bin\Debug\lab2Delgate.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\lab2Delgate\bin\Debug\lab2Delgate.pdb
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\lab2Delgate\obj\Debug\lab2Delgate.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\lab2Delgate\obj\Debug\lab2Delgate.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\lab2Delgate\obj\Debug\lab2Delgate.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\lab2Delgate\obj\Debug\lab2Delgate.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\lab2Delgate\obj\Debug\lab2Delgate.pdb

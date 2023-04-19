@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.5_DictionaryNIkhil\bin\Debug\q.5_DictionaryNIkhil.exe.config
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.5_DictionaryNIkhil\bin\Debug\q.5_DictionaryNIkhil.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.5_DictionaryNIkhil\bin\Debug\q.5_DictionaryNIkhil.pdb
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.5_DictionaryNIkhil\obj\Debug\q.5_DictionaryNIkhil.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.5_DictionaryNIkhil\obj\Debug\q.5_DictionaryNIkhil.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.5_DictionaryNIkhil\obj\Debug\q.5_DictionaryNIkhil.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.5_DictionaryNIkhil\obj\Debug\q.5_DictionaryNIkhil.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.5_DictionaryNIkhil\obj\Debug\q.5_DictionaryNIkhil.pdb

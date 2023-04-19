@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.6_LINQ_Nikhil\bin\Debug\q.6_LINQ_Nikhil.exe.config
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.6_LINQ_Nikhil\bin\Debug\q.6_LINQ_Nikhil.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.6_LINQ_Nikhil\bin\Debug\q.6_LINQ_Nikhil.pdb
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.6_LINQ_Nikhil\obj\Debug\q.6_LINQ_Nikhil.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.6_LINQ_Nikhil\obj\Debug\q.6_LINQ_Nikhil.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.6_LINQ_Nikhil\obj\Debug\q.6_LINQ_Nikhil.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.6_LINQ_Nikhil\obj\Debug\q.6_LINQ_Nikhil.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab2\q.6_LINQ_Nikhil\obj\Debug\q.6_LINQ_Nikhil.pdb
