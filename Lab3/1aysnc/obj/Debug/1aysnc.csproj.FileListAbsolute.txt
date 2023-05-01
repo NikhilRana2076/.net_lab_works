@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\1aysnc\bin\Debug\1aysnc.exe.config
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\1aysnc\bin\Debug\1aysnc.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\1aysnc\bin\Debug\1aysnc.pdb
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\1aysnc\obj\Debug\1aysnc.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\1aysnc\obj\Debug\1aysnc.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\1aysnc\obj\Debug\1aysnc.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\1aysnc\obj\Debug\1aysnc.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\1aysnc\obj\Debug\1aysnc.pdb

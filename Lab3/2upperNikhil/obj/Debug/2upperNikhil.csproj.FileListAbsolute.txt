@@ -1,0 +1,8 @@
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\2upperNikhil\bin\Debug\2upperNikhil.exe.config
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\2upperNikhil\bin\Debug\2upperNikhil.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\2upperNikhil\bin\Debug\2upperNikhil.pdb
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\2upperNikhil\obj\Debug\2upperNikhil.csproj.AssemblyReference.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\2upperNikhil\obj\Debug\2upperNikhil.csproj.SuggestedBindingRedirects.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\2upperNikhil\obj\Debug\2upperNikhil.csproj.CoreCompileInputs.cache
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\2upperNikhil\obj\Debug\2upperNikhil.exe
+D:\Semester VI\Net\Lab\.net_lab_works\Lab3\2upperNikhil\obj\Debug\2upperNikhil.pdb
